@@ -1,0 +1,41 @@
+{
+  "appName": "BeNatura",
+
+  "htBeNatura": "#beNatura",
+  "htOurFamily": "#UnsereFamilie",
+
+  "sectHomeMenu": "ENTDECKE UNSERE BOWLS UND MENÜS\n#beNatura",
+  "sectHomeOrder": "WÄHLE DEINE FILIALE UND\nMACHE DEINE BESTELLUNG\nONLINE",
+  "sectHomeCocktail": "Genieße den Nachmittag auf dem Santo Domingo platz",
+  "sectHomeSandwich": "Gesundes und unterhaltsames Mittagessen mit unseren Sandwiches",
+  "sectHomeSalad": "Gesundes Essen mit den notwendigen Proteinen für den Tag",
+
+  "sectWeIntro": "HINTER UNSEREN BOWLS",
+  "sectWeWelcome": "Herzlich willkommen in unserer gesunden Welt! Wir sind eine Gruppe von Freunden, die eine Leidenschaft für einen gesunden Lebensstil teilen und uns dafür einsetzen, ihn nach Murcia zu bringen.",
+
+  "discoverMenu": "ENTDECKE UNSERE BOWLS UND UNSERE SPEISEKARTE",
+  "hereWeAre": "Here we are!",
+
+  "buttonMenu": "Menü anzeigen",
+  "buttonOrder": "Bestelle hier",
+
+  "titleOrder": "MACHE DEINE BESTELLUNG ONLINE UND GENIEßE ES, WO DU WILLST",
+  "subTitleOrder": "Wie möchtest du bestellen?",
+  "buttonUber": "Bestellen mit Uber Eats",
+  "buttonGlovo": "Bestellen mit Glovo",
+
+  "followUsInstagram": "FOLGE UNS AUF INSTAGRAM!",
+  "orderOnline": "Online-Bestellung",
+  "menu": "Menü",
+  "we": "Wir",
+  "contact": "Kontakt",
+
+  "bnLocation": "Plaza Santo Domingo, Murcia",
+  "bnEmail": "benaturandfood@gmail.com",
+  "social": "SOCIAL",
+  "socialInstagram": "Instagram",
+  "socialSpotify": "Spotify",
+  "socialTikTok": "TikTok",
+  "copyright": "Copyright © 2023 | bitUtopy"
+
+}

@@ -1,0 +1,40 @@
+{
+  "appName": "BeNatura",
+
+  "htBeNatura": "#BeNatura",
+  "htOurFamily": "#OurFamily",
+
+  "sectHomeMenu": "DISCOVER OUR BOWLS AND MENUS\n#benatura",
+  "sectHomeOrder": "CHOOSE YOUR \nLOCATION AND \nPLACE YOUR ORDER\nONLINE",
+  "sectHomeCocktail": "Enjoy the evening at Santo Domingo Square",
+  "sectHomeSandwich": "Healthy and fun lunch with our sandwiches",
+  "sectHomeSalad": "Healthy meal with the necessary proteins for the day",
+
+  "sectWeIntro": "BEHIND OUR BOWLS",
+  "sectWeWelcome": "Welcome to our healthy world! We are a group of friends who share a passion for a healthy lifestyle and are committed to bringing it to Murcia.",
+
+  "discoverMenu": "DISCOVER OUR BOWLS AND MENU",
+  "hereWeAre": "Here we are!",
+
+  "buttonMenu": "View Menu",
+  "buttonOrder": "Place Your Order Here",
+
+  "titleOrder": "PLACE YOUR ORDER ONLINE AND ENJOY IT ANYWHERE",
+  "subTitleOrder": "How would you like to order?",
+  "buttonUber": "Order with Uber Eats",
+  "buttonGlovo": "Order with Glovo",
+
+  "followUsInstagram": "FOLLOW US ON INSTAGRAM!",
+  "orderOnline": "Online Order",
+  "menu": "Menu",
+  "we": "We",
+  "contact": "Contact",
+
+  "bnLocation": "Plaza Santo Domingo, Murcia",
+  "bnEmail": "benaturandfood@gmail.com",
+  "social": "SOCIAL",
+  "socialInstagram": "Instagram",
+  "socialSpotify": "Spotify",
+  "socialTikTok": "TikTok",
+  "copyright": "Copyright © 2023 | bitUtopy"
+}

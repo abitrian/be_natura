@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323555421532",
+    "project_id": "bitutopy-84350",
+    "storage_bucket": "bitutopy-84350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323555421532:android:4f308d697f220513806599",
+        "android_client_info": {
+          "package_name": "com.example.be_natura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323555421532-l96eaptg0giartvd7pr092sop4lu1ock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClY5dwCmAt5eMD2LSP_4tAe84XlE_f5N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323555421532-l96eaptg0giartvd7pr092sop4lu1ock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

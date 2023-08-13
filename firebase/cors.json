@@ -1,0 +1,12 @@
+[
+  {
+    "origin": ["https://be-natura-alpha.web.app"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  },
+  {
+    "origin": ["https://be-natura-alpha.firebaseapp.com"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
