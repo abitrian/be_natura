@@ -1,4 +1,4 @@
-package com.example.be_natura
+package com.bitutopy.benatura
 
 import io.flutter.embedding.android.FlutterActivity
 

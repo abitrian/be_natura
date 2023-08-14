@@ -1,15 +1,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-sdk
-        android:minSdkVersion="19"
-        android:targetSdkVersion="19" />
+        android:minSdkVersion="20"
+        android:targetSdkVersion="30" />
 
     <meta-data android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyBwUmzLSyz4D15dTiJM9UCNOCzpU2rWNCY"/>
+        android:value="${MAPS_API_KEY}"/>
 
     <application
         android:label="be_natura"
-        android:name="${applicationName}"
+        android:name="BeNatura"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

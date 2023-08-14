@@ -48,3 +48,9 @@ app.*.map.json
 /.firebase/
 /android/keystore/
 /release/
+/ios/Runner/keys.plist
+/android/local_maps.properties
+/ios/local_maps.properties
+/ios/credentials/add_credentials_to_env.sh
+/ios/credentials/
+/ios/credentials/
