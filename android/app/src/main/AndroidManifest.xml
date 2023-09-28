@@ -5,14 +5,13 @@
         android:targetSdkVersion="30" />
 
     <meta-data android:name="com.google.android.geo.API_KEY"
-        android:value="${MAPS_API_KEY}"/>
+        android:value="AIzaSyD-MljaqLFZor70O1YftGx12m97hsJyU9Y"/>
 
     <application
         android:label="be_natura"
-        android:name="BeNatura"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/bn_launcher">
         <activity
-            android:name=".MainActivity"
+            android:name=".BeNatura"
             android:exported="true"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"

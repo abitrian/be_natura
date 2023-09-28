@@ -24,6 +24,22 @@ class BeNaturaDrawer extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
               InkWell(
+                onTap: () {},
+                child: BeNaturaText("",
+                    align: TextAlign.left,
+                    style: TextStyle(
+                      color: BeNaturaColors.lightFont,
+                    ),
+                    size: 20),
+              ),
+              Padding(
+                padding: const EdgeInsets.only(top: 5.0, bottom: 5.0),
+                child: Divider(
+                  color: Colors.blueGrey.shade50,
+                  thickness: 0.5,
+                ),
+              ),
+              InkWell(
                 onTap: () {
                   Navigator.of(context).push(
                     MaterialPageRoute(

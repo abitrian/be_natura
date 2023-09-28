@@ -62,12 +62,13 @@ class _OrderPageState extends State<OrderPage> {
                           buttonLeftDestination: () {
                             BNNavigator()
                                 .launchURL("https://www.ubereats.com/es");
-                          },
+                          }
+                          /*,
                           buttonRight:
                               AppLocalizations.of(context)!.buttonGlovo,
                           buttonRightDestination: () {
                             BNNavigator().launchURL("https://glovoapp.com/");
-                          },
+                          },*/
                         ),
                         /*Padding(
                           padding: EdgeInsets.only(
