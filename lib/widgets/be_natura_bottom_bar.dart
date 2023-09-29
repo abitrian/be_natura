@@ -134,8 +134,7 @@ class BeNaturaBottomBar extends StatelessWidget {
                           child: Image.asset(
                             BeNaturaResources.bnIcon,
                             fit: BoxFit.fill,
-                            height: 80,
-                            width: 60,
+                            height: 120,
                           ),
                         ),
                       ],

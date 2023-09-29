@@ -63,7 +63,7 @@ class _MenuPageState extends State<MenuPage> {
                           padding: EdgeInsets.only(
                               left: ScreenUtil().getPaddingSize(context, 80),
                               top: ScreenUtil().getPaddingSize(context, 50),
-                              bottom: ScreenUtil().getPaddingSize(context, 50)),
+                              bottom: ScreenUtil().getPaddingSize(context, 10)),
                           child: Align(
                             alignment: Alignment.centerLeft,
                             child: BeNaturaText(

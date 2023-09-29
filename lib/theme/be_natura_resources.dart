@@ -20,7 +20,7 @@ class BeNaturaResources {
   static const String bnBackground = "assets/images/be-natura-back.png";
 
   /// Menú *
-  static const String bnMenu = "https://firebasestorage.googleapis.com/v0/b/bitutopy-84350.appspot.com/o/benatura%2Fmenu%2Fsample-menu.pdf?alt=media&token=2fdb2204-0f64-4f99-b345-0cb80106a647";
+  static const String bnMenu = "https://firebasestorage.googleapis.com/v0/b/bitutopy-84350.appspot.com/o/benatura%2Fmenu%2FBeNatura2023.pdf?alt=media&token=f15a4604-f737-4566-8340-f42e42aea5ce&_gl=1*6lbvlq*_ga*MjczODQ5NTUzLjE2NDA3Nzk3MTM.*_ga_CW55HF8NVT*MTY5NTkzMzMyMi44Ny4xLjE2OTU5MzMzOTYuNTEuMC4w";
 
   /// Icons *
   static const String iconInstagram = "assets/icons/icons8-instagram-48.png";
@@ -31,7 +31,7 @@ class BeNaturaResources {
 
   /// Links *
   static const String linkInstagram = "https://www.instagram.com/benaturacaiandfood/";
-  static const String linkSpotify = "https://open.spotify.com/playlist/15RiKHuEmliPAKHe07sEs4?si=f73f0b73dc9c4924";
+  static const String linkSpotify = "https://open.spotify.com/playlist/7ioNoj1dbuB3EQoxAX4T3w?si=44f9798d7249436b";
 
 
 }

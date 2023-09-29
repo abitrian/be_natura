@@ -67,10 +67,10 @@ class ScreenUtil {
       return size;
     }
     if(ResponsiveWidget.isMediumScreen(context)) {
-      return size * 1.5;
+      return size * 1.25;
     }
     if(ResponsiveWidget.isLargeScreen(context)) {
-      return size * 2;
+      return size * 1.5;
     }
   }
 

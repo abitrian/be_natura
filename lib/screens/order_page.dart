@@ -58,16 +58,16 @@ class _OrderPageState extends State<OrderPage> {
                           hashTagMessage:
                               AppLocalizations.of(context)!.htBeNatura,
                           textColor: BeNaturaColors.lightFont,
-                          buttonLeft: AppLocalizations.of(context)!.buttonUber,
+                          buttonLeft: AppLocalizations.of(context)!.buttonJustEats,
                           buttonLeftDestination: () {
                             BNNavigator()
-                                .launchURL("https://www.ubereats.com/es");
-                          },
+                                .launchURL("https://www.just-eat.es/restaurants-be-natura-murcia/menu");
+                          }/*,
                           buttonRight:
                               AppLocalizations.of(context)!.buttonGlovo,
                           buttonRightDestination: () {
                             BNNavigator().launchURL("https://glovoapp.com/");
-                          },
+                          },*/
                         ),
                         /*Padding(
                           padding: EdgeInsets.only(
